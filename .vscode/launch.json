@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ConverterFX",
+            "request": "launch",
+            "mainClass": "ConverterFX",
+            "projectName": "Assignment14_8ac412dd"
+        },
+        {
+            "type": "java",
+            "name": "ConverterGUI",
+            "request": "launch",
+            "mainClass": "ConverterGUI",
+            "projectName": "Assignment14_8ac412dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "App",
+            "vmArgs": "--module-path 'c:\\Users\\NWriter\\Desktop\\openjfx-24_windows-x64_bin-sdk\\javafx-sdk-24\\lib' --add-modules javafx.graphics,javafx.base,javafx.controls,javafx.fxml,javafx.media,javafx.swing,javafx.swt"
+        }
+    ]
+}
